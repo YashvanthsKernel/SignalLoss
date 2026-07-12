@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.jpg" alt="Signal Loss Logo" width="220" height="220" />
+</p>
+
 # ⚡ Signal Loss — Arcade Survival
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
