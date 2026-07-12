@@ -1,0 +1,22 @@
+/* ===== Signal Loss — Global Styles ===== */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #0a0e1a;
+  font-family: 'Share Tech Mono', 'Courier New', monospace;
+}
+
+#gameCanvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: none; /* hide OS cursor — game renders its own if needed */
+  touch-action: none; /* prevent browser scroll/zoom from intercepting touch */
+}
